@@ -36,7 +36,7 @@ The course includes a compulsory 3-hour laboratory work each week.
 ## How to Use This Repository
 1. Clone the repository to your local machine using the command:
    ```bash
-   git clone https://github.com/your-username/CSE350-Digital-Electronics.git
+   git clone https://github.com/fah-ayon/Digital-Electronics-and-Pulse-Techniques-CSE350-.git
    ```
 2. Navigate through the folders to access specific materials.
 3. Use the resources to prepare for exams, complete assignments, and deepen your understanding of digital electronics.
